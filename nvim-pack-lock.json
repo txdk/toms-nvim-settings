@@ -1,0 +1,8 @@
+{
+  "plugins": {
+    "vscode_modern_theme.nvim": {
+      "rev": "22371eeb704bed395262e552248c998ef7f41254",
+      "src": "https://github.com/gmr458/vscode_modern_theme.nvim"
+    }
+  }
+}
