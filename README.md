@@ -13,3 +13,8 @@ git clone https://github.com/txdk/toms-nvim-settings.git "${XDG_CONFIG_HOME:-$HO
 ```sh
 brew install tree-sitter-cli
 ```
+
+3. Install `ripgrep` for use in `Telescope live_grep`:
+```sh
+brew install ripgrep
+```
