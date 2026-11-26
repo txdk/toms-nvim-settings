@@ -18,3 +18,7 @@ brew install tree-sitter-cli
 ```sh
 brew install ripgrep
 ```
+
+## Usage Notes
+A few quick tips to get started:
+- Use `\` to toggle the file tree
